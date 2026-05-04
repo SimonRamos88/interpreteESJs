@@ -1,9 +1,1 @@
-const operaciones = {
-  suma: (a, b) => a + b,
-  resta: (a, b) => a - b,
-  mult: (a, b) => a * b
-};
-
-const tipo = "suma";
-
-funcion_.inventada(operaciones[tipo](10, 5));
+consola.escribir(45"this")
