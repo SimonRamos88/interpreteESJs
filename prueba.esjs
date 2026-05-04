@@ -1,4 +1,9 @@
-// un try catch latinizado
-intentar{
+const operaciones = {
+  suma: (a, b) => a + b,
+  resta: (a, b) => a - b,
+  mult: (a, b) => a * b
+};
 
-} // no faltará algo?
+const tipo = "suma";
+
+funcion_.inventada(operaciones[tipo](10, 5));
